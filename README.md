@@ -17,6 +17,6 @@ Inside project directory, you can run:
 ### `go run main.go`
 
 Check if the app running, <br />
-Open [http://localhost:9999](http://localhost:9999) on browser.
+Open [http://localhost:9999](http://localhost:8000) on browser.
 
 Check documentation [here](https://documenter.getpostman.com/view/16535030/UVXdMdC9).
